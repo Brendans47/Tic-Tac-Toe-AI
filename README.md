@@ -30,7 +30,7 @@ Python
 
 Java
 
-
+.
 
 1:  Download the file TicTacToeAI.java
 
@@ -52,7 +52,7 @@ Java
 
 TypeScript
 
-
+.
 
 Requierments
 
@@ -88,6 +88,7 @@ TypeScript installed globally:
 
 C
 
+.
 
 Requirements
 
