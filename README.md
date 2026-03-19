@@ -45,4 +45,63 @@ Java
 
 
 
+TypeScript
+
+Requierments
+
+Node.js installed
+
+TypeScript installed globally:
+    
+    npm install -g typescript
+
+
+
+1:  Download the folder TypeScript-version
+
+2:  Navigate to the project folder:
+    
+    cd TicTacToe
+
+3:  Compile the TypeScript:
+
+    tsc app.ts --target ES2015 --lib ES2016,DOM
+
+4:  Open the game:
+
+    Open index.html in your browser
+
+5:  Click on the grid to play against the AI
+
+
+
+
+C
+
+
+Requirements
+
+1:  Windows Subsystem for Linux (WSL)
+
+2:  GCC compiler installed
+
+
+Setup (one-time)
+    sudo apt update
+    sudo apt install build-essential
+
+
+Steps
+
+1:  Download the file Tic_Tac_Toe.c
+
+2:  Compile the program:
+
+    gcc tic_tac_toe.c -o ttt
+
+3: Run the game:
+
+    ./ttt
+
+
 Thank you for playing.
