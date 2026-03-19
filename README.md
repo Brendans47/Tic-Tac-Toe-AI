@@ -3,11 +3,13 @@ Built an interactive Tic Tac Toe game with an unbeatable AI using the Minimax Al
 
 Testing:
 
+.
 
+.
 
 Python
 
-
+.
 
 1:  Download the file TicTacToe.py
 
@@ -22,10 +24,11 @@ Python
 5:  Close the result popup to play again
 
 
+.
 
+.
 
 Java
-
 
 
 
@@ -43,9 +46,13 @@ Java
 
 5:  Close the result popup to play again
 
+.
 
+.
 
 TypeScript
+
+
 
 Requierments
 
@@ -74,7 +81,10 @@ TypeScript installed globally:
 5:  Click on the grid to play against the AI
 
 
+.
 
+
+.
 
 C
 
@@ -103,5 +113,7 @@ Steps
 
     ./ttt
 
+
+.
 
 Thank you for playing.
